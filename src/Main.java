@@ -46,7 +46,7 @@ public class Main {
         System.out.println("РАЗНИЦА В ВЕСЕ БОКСЕРОВ " + weightDifference);
         System.out.println("ЗАДАНИЕ 7");
         System.out.println("1 СПОСОБ РАЗНИЦА В ВЕСЕ БОКСЕРОВ " + weightDifference);
-        System.out.println("2 СПОСОБ РАЗНИЦА В ВЕСЕ БОКСЕРОВ ");
+        System.out.println("2 СПОСОБ РАЗНИЦА В ВЕСЕ БОКСЕРОВ ?");
         System.out.println("ЗАДАНИЕ 8");
         var allTime = 640;
         var timeForOne = 8;
