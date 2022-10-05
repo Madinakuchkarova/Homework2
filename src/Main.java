@@ -38,7 +38,7 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
-        System.out.println("ЗАДАНИЕ 6");
+        System.out.println("ЗАДАНИЕ 6!");
         var boxerFirst = 78.2;
         var boxerSecond = 82.7;
         System.out.println("ОБЩИЙ ВЕС БОКСЕРОВ " + (boxerFirst + boxerSecond));
@@ -56,6 +56,8 @@ public class Main {
         System.out.println("ЕСЛИ В КОМПАНИЕ РАБОТАЕТ " + totalEmployees  + " ЧЕЛОВЕК,ТО ВСЕГО");
         totalWorkingHours = totalEmployees * hoursPerDay;
         System.out.println( + totalWorkingHours + " ЧАСА РАБОТЫ МОЖЕТ БЫТЬ ПОДЕЛЕНО МЕЖДУ СОТРУДНИКАМИ");
+
+
 
 
 
